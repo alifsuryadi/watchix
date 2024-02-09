@@ -1,16 +1,20 @@
+<div style="text-align:center;">
+    ![Watchix Logo](https://raw.githubusercontent.com/alifsuryadi/watchix/39da96b5038a5a2aa8396f2e91f85d53d53a3c9f/public/images/moonton-white.svg)
+</div>
+
 # Watchix
 
 Watchix is a streaming video website inspired by platforms like Netflix, designed to provide an immersive entertainment experience.
 
 ### Menu
 
--   [Features](##Features)
--   [Technologies Used](##Technologies-Used)
--   [Getting Started](##Getting-Started)
--   [Installation](###Installation)
--   [Contributing](###Contributing)
--   [License](###License)
--   [Contact](###Contact)
+-   [Features](#Features)
+-   [Technologies Used](#Technologies-Used)
+-   [Getting Started](#Getting-Started)
+-   [Installation](#Installation)
+-   [Contributing](#Contributing)
+-   [License](#License)
+-   [Contact](#Contact)
 
 ## Features
 
